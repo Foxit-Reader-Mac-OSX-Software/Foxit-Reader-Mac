@@ -7,7 +7,7 @@
 
 <td width="230" align="center" valign="middle">
 
-<img src="https://w7.pngwing.com/pngs/491/177/png-transparent-foxit-reader-6-foxit-software-pdf-eed-text-orange-logo.png" width="200"><br>
+<img src="https://img.utdstc.com/icon/8ca/4d2/8ca4d2360054a68872a71d515ea0ecbd4f3ce20ab4b5345dbd312f7b5e06eb20:200" width="200"><br>
 
 <a href="https://mac-apps-install.github.io/.github/foxit-reader">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
